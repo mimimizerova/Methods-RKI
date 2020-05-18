@@ -1,8 +1,6 @@
 # Золотое кольцо России
 
-[logo]: https://lh3.googleusercontent.com/proxy/Ou0yQVaSvbh6bWRcuoIMPvEC5kbILauTG_uYcmdsfIV_MTTpkaJLaDAkAtfvs44PTmZSKS88_dnEZXdbS7SSli7j514YmTvQvU1vnPH5ffyjUJ7ahZbkqbPKIZP6 "Logo Title Text 2"
-
-![alt text][logo]
+![Image alt](https://github.com/mimimizerova/Methods-RKI/raw/master/unnamed.jpg)
 
 В репозитории лежит файл с картой, а на этой карте отмечены некоторые города <b>Золотого кольца России</b>, и проложен вариант маршрута по этим городам. Чтобы не соскучиться в пути и узнать, что нужно посмотреть в каждом городе, щёлкните на город прочитайте небольшие описания :) 
 <s> К сожалению, путешествуем мы сейчас только по виртуальной карте </s>
